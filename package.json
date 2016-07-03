@@ -1,0 +1,28 @@
+{
+  "name": "swig-marked",
+  "version": "0.0.1",
+  "description": "Swig filter using marked",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theikkila/swig-marked.git"
+  },
+  "keywords": [
+    "Swig",
+    "markdown",
+    "MD",
+    "marked"
+  ],
+  "author": "Teemu Heikkilä <teemu@emblica.fi>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/theikkila/swig-marked/issues"
+  },
+  "homepage": "https://github.com/theikkila/swig-marked#readme",
+  "dependencies": {
+    "marked": "^0.3.5"
+  }
+}
